@@ -9,6 +9,7 @@ var middleware = require('./middleware.js'); // getting middleware file here now
 // this is new change3
 // this is new change4
 // this is new change5
+// this is new change6
 
 app.use(middleware.logger);
 
